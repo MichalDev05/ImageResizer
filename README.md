@@ -2,7 +2,7 @@
 This program resizes image. (For games)
 
 
-Simply drag image in jpg format and sets resolution
+Simply drag image and set resolution
 to set resolution you have to to write it to cmd line
 eg:
 256
